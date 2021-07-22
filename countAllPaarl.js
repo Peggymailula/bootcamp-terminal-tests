@@ -11,6 +11,6 @@ module.exports= function(reg)
          list2.push(list1[i].trim());
         }
 }
-    return list2;   
+    return list2.length;   
   
 }
