@@ -1,7 +1,6 @@
 {
   "name": "bootcamp-terminal-tests",
   "version": "1.0.0",
-  "description": "",
   "main": "countAllFromTown.js",
   "directories": {
     "test": "test"
@@ -23,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/Peggymailula/bootcamp-terminal-tests/issues"
   },
-  "homepage": "https://github.com/Peggymailula/bootcamp-terminal-tests#readme"
+  "homepage": "https://github.com/Peggymailula/bootcamp-terminal-tests#readme",
+  "description": ""
 }
